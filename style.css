@@ -8,9 +8,14 @@ body {
   }
   
   h1 {
-    color: #6E3230;
+    color: #6E3230; 
     font-size: 2.5em;
     margin-bottom: 20px;
+    text-shadow:
+      0 0 5px #b06e65,
+      0 0 10px #c28a7a,
+      0 0 15px #d9a89c,
+      0 0 20px #e3b9ae;
   }
   
   h2 {
